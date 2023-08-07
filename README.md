@@ -3,6 +3,12 @@ Build Applicatin And Push
 
 Hello everyone this is a bash script that i make for push my spring projects to ECR and probably someone needs this or maybe this can help anyone idk :)
 
+for install you can use this command
+
+`sudo mv ./baap.bash ~/`
+`sudo echo 'alias baap="~/baap.bash"' >> ~/.bashrc`
+`sudo source ~/.bashrc`
+
 ### WARNING 
 This script only works on WSL with Docker.io installed or linux systems obviusly and only works with maven archetype
 
