@@ -11,8 +11,9 @@ sudo echo 'alias baap="~/baap.bash"' >> ~/.bashrc
 sudo source ~/.bashrc
 ```
 
-> [!IMPORTANT] \
-> This script only works on WSL with Docker.io installed or linux systems obviusly and only works with maven archetype
+> [!WARNING]\
+> This script only works on WSL with Docker.io installed or linux systems obviusly and only works with maven archetype.
+
 
 ### How to use
 Please read this if you want to use the CLI, take this like an advice
