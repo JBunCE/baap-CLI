@@ -24,7 +24,7 @@ Please read this if you want to use the CLI, take this like an advice
   baap -b <project name>
   ``` 
 
-- <b> For push your docker image to RCR </b>
+- <b> For push your docker image to ECR </b>
 
   ```bash
   baap -p <project name>
